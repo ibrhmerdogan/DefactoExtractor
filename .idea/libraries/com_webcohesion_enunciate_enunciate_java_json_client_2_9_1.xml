@@ -1,0 +1,84 @@
+<component name="libraryTable">
+  <library name="com.webcohesion.enunciate:enunciate-java-json-client:2.9.1" type="repository">
+    <properties maven-id="com.webcohesion.enunciate:enunciate-java-json-client:2.9.1" />
+    <ANNOTATIONS>
+      <root url="file://$PROJECT_DIR$" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/enunciate-java-json-client-2.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/enunciate-core-2.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/enunciate-core-annotations-2.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/enunciate-javac-support-2.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tools.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-configuration-1.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-lang-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-collections-3.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/rxjava-1.1.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jgrapht-core-0.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/reflections-0.9.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/guava-15.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javassist-3.18.2-GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/annotations-2.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/validation-api-1.1.0.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/pegdown-1.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/parboiled-java-1.1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/parboiled-core-1.1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/asm-5.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/asm-tree-5.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/asm-analysis-5.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/asm-util-5.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/enunciate-jackson-2.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-databind-2.5.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-annotations-2.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-core-2.5.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/enunciate-jackson1-2.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-jaxrs-1.9.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-core-asl-1.9.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-mapper-asl-1.9.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/enunciate-jaxrs-2.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.ws.rs-api-2.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jsr250-api-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/swagger-annotations-1.5.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/freemarker-2.3.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/enunciate-java-json-client-2.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/enunciate-core-2.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/enunciate-core-annotations-2.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/enunciate-javac-support-2.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tools.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-configuration-1.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-lang-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-collections-3.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/rxjava-1.1.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jgrapht-core-0.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/reflections-0.9.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/guava-15.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javassist-3.18.2-GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/annotations-2.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/validation-api-1.1.0.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/pegdown-1.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/parboiled-java-1.1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/parboiled-core-1.1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/asm-5.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/asm-tree-5.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/asm-analysis-5.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/asm-util-5.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/enunciate-jackson-2.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-databind-2.5.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-annotations-2.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-core-2.5.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/enunciate-jackson1-2.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-jaxrs-1.9.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-core-asl-1.9.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-mapper-asl-1.9.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/enunciate-jaxrs-2.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.ws.rs-api-2.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jsr250-api-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/swagger-annotations-1.5.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/freemarker-2.3.23.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
